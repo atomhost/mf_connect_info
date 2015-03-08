@@ -1,0 +1,102 @@
+"Phrases"
+{
+	"player disconnect"
+	{
+		"#format" "{1:N}"
+		"ru" "{black}☆ {fullred}Игрок {white}{1} {fullred}устал и покинул на игровой мир"
+		"en" "{black}☆ {white}{1} {fullred}disconnected from server"
+	}
+	"line"
+	{
+		"ru" "{black}☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆"
+		"en" "{black}☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆^☆_☆"
+	}
+	
+	"enter steam"
+	{
+		"#format" "{1:N}"
+		"ru" "{black}☆ {fullred}Зашел {white}{1} {lime}[Steam]{white} на сервер {green}by атомхост.рф"
+		"en" "{black}☆ {fullred}Player {white}{1} {lime}[Steam]{white} on the server {green}by CSS26.ru"
+	}	
+	"user_name"
+	{
+		"#format" "{1:s}"
+		"ru" "{black}☆ {fullred}Настоящее имя:{lime} {1}"
+		"en" "{black}☆ {fullred}Name:{lime} {1}"
+	}	
+	"vac_banned"
+	{
+		"ru" "{black}☆ {fullred}У игрока активный VAC бан!"
+		"en" "{black}☆ {fullred}User banned in VAC!"
+	}	
+	"vac_bans_cont"
+	{
+		"#format" "{1:i}"
+		"ru" "{fullred}VAC баны:{lime} {1}"
+		"en" "{fullred}VAC bans:{lime} {1}"
+	}	
+	"enter nosteam"
+	{
+		"#format" "{1:N}"
+		"ru" "{black}☆ {fullred}Зашел {white}{1} {fullred}[No-Steam]{white} на сервер {green}by атомхост.рф"
+		"en" "{black}☆ {fullred}Player {white}{1} {fullred}[No-Steam]{white} on the server {green}by CSS26.ru"
+	}	
+	"enter"
+	{
+		"#format" "{1:N}"
+		"ru" "{black}☆ {fullred}Зашел {white}{1}{white} на сервер {green}by атомхост.рф"
+		"en" "{black}☆ {fullred}Player {white}{1}{white} on the server {green}by CSS26.ru"
+	}	
+	"steamid"
+	{
+		"#format" "{1:s}"
+		"ru" "{black}☆ {fullred}SteamID: {white}{1}"
+		"en" "{black}☆ {fullred}SteamID: {white}{1}"
+	}	
+	"steamid64"
+	{
+		"#format" "{1:s}"
+		"ru" "{white}({1})"
+		"en" "{white}({1})"
+	}	
+	"ip"
+	{
+		"#format" "{1:s}"
+		"ru" "{black}☆ {fullred}IP адрес:  {white}{1}"
+		"en" "{black}☆ {fullred}Public IP: {white}{1}"
+	}
+	"country"
+	{
+		"#format" "{1:s}"
+		"ru" "{black}☆ {fullred}Страна: {white}{1}"
+		"en" "{black}☆ {fullred}Country: {white}{1}"
+	}
+	"no data"
+	{
+		"ru" "Остальные данные не известны"
+		"en" "{fullred}No Information"
+	}
+	"city"
+	{
+		"#format" "{1:s}"
+		"ru" " {fullred}Город: {white}{1}"
+		"en" " {fullred}City: {white}{1}"
+	}	
+	"region"
+	{
+		"#format" "{1:s}"
+		"ru" " ({white}{1})"
+		"en" " ({white}{1})"
+	}	
+	"district"
+	{
+		"#format" "{1:s}"
+		"ru" "{black}☆ {fullred}Дистрикт: {white}{1}"
+		"en" "{black}☆ {fullred}District: {white}{1}"
+	}	
+	"no connect"
+	{
+		"ru" "{fullred}Нет связи с сервером"
+		"en" "{fullred}No connection to the server"
+	}
+}
